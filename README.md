@@ -73,4 +73,4 @@ Mark the test results as **PASSED** or **FAILED**. If a test fails, document the
 - **Google Chrome**, screen resolution 800x600
 - **Firefox**, screen resolution 1920x1080
 
- ![Jira](car-sharing-testing-project/imagem/jira.jpeg)
+ # Car-sharing-testing-project
